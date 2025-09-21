@@ -1,0 +1,22 @@
+# Environment files
+.env
+.env.*
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore build folders
+/bin/
+/build/
+/out/
+
+# Ignore IDE-specific files (optional)
+*.iml
+.idea/
+.vscode/
